@@ -1,2 +1,2 @@
-# edu_otus_nlp
-Курс "Natural Language Processing (NLP)"
+# Курс "Natural Language Processing (NLP)"
+
