@@ -3,7 +3,7 @@
 ## Модуль 1. Python для работы с текстами
 1. Введение в NLP ([slides](2022_12_28_NLP_intro.pdf))
 2. Recap python / data analysis / визуализации ([slides](2023_01_11_Recap.pdf), [[notebook] Python](lecture_python.ipynb), [[notebook] NumPy](lecture_numpy.ipynb), [[notebook] Pandas](lecture_pandas.ipynb), [[notebook] Visualization](lecture_visualization.ipynb))
-3. Работа со строками + регулярные выражения
+3. Работа со строками + регулярные выражения ([slides](2023_01_13_Regex.pdf), [[notebook] Regex]())
 4. Парсинг данных
 
 
