@@ -53,3 +53,7 @@
 - [Документция fake-useragent](https://pypi.org/project/fake-useragent/)
 - [Описание библиотеки BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 - [Исключения в Python](https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html)
+- [Конструкция if-else](https://www.freecodecamp.org/news/truthy-and-falsy-values-in-python/)
+- [Принципы работы Tor](https://habr.com/ru/post/357128/)
+- [Stem for tor](https://stem.torproject.org/)
+- [Автоматическая аутентификация в Питоне](https://stackoverflow.com/questions/13506455/how-to-pass-proxy-authentication-requires-digest-auth-by-using-python-requests)
