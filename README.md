@@ -49,4 +49,6 @@
 
 
 ## Полезные матриалы
+### Парсинг сайтов
 - [Документция fake-useragent](https://pypi.org/project/fake-useragent/)
+- [Описание библиотеки BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
