@@ -49,3 +49,4 @@
 
 
 ## Полезные матриалы
+- [Документция fake-useragent](https://pypi.org/project/fake-useragent/)
