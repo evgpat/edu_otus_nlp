@@ -52,3 +52,4 @@
 ### Парсинг сайтов
 - [Документция fake-useragent](https://pypi.org/project/fake-useragent/)
 - [Описание библиотеки BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
+- [Исключения в Python](https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html)
